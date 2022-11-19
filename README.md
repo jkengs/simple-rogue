@@ -1,5 +1,5 @@
 # Simple Rogue
- A very simple game, based on Rogue, a classic dungeon crawling role-playing game from the 1980s.
+ A very simple game, based on [Rogue](https://en.wikipedia.org/wiki/Rogue_(video_game)), a classic dungeon crawling role-playing game from the 1980s.
 
 ## Usage
  
