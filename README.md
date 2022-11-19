@@ -5,6 +5,7 @@
  
 `java GameEngine`
 
+<pre>
 Commands:
 
 `help`             Displays available commands in the main menu
@@ -26,7 +27,7 @@ Movements:
 `s`                Move one cell South
 
 `d`                Move one cell East
-
+<pre/>
 
 <br><br/>
  > Note: This is a copy of the original private repo, with all sensitive info removed.
